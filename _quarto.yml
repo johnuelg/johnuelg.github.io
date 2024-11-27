@@ -1,19 +1,37 @@
 project:
-  type: website
+  type: website  # Specifies this is a website project
 
 website:
-  title: "johnuelg.githu.io"
+  title: "Taif Children's Hospital"
+  image: "quarto-dark-bg.jpeg"  # Ensure this file is correctly placed in your project
+  favicon: "favicon.png"  # Ensure favicon is in your project directory
+  site-url: https://joanjz.github.io  # Replace with actual site URL when live
+  search: false
   navbar:
+    background: light
+    logo: logo_text.png  # Ensure this image is correctly placed
+    logo-alt: "Taif Children's hospital logo."
+    title: false
+    collapse-below: lg
     left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+      - text: "Home"
+        href: index.qmd
+      - text: "Gallery"
+        href: docs/gallery/index.qmd  # Ensure these paths are correct
+      - text: "Blog"
+        href: docs/blog/index.qmd  # Ensure these paths are correct
 
 format:
   html:
-    theme: cosmo
-    css: styles.css
-    toc: true
-
-
-
+    toc: true  # Enables table of contents
+    theme:
+      light: [cosmo, theme.scss]  # Light theme customization
+    code-copy: true  # Enables code copy button
+    code-overflow: wrap  # Wraps long code lines
+    css: styles.css  # Custom CSS file
+    include-after-body: js.html  # Custom JS to include after body
+    grid:
+      sidebar-width: 250px  # Width of the sidebar
+      body-width: 900px  # Width of the main body content
+      margin-width: 300px  # Width of the page margins
+    

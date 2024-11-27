@@ -1,0 +1,16 @@
+---
+title: Report
+subtitle: Contains all domain reports
+listing:
+  sort: "date desc"
+  contents: "posts/*/index.qmd"
+  sort-ui: true
+  filter-ui: true
+  categories: true
+  feed: true
+page-layout: full
+title-block-banner: "#EDF3F9"
+title-block-banner-color: body
+search: true
+image: quarto-blog-v2.png
+---

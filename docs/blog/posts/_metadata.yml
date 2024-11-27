@@ -1,0 +1,10 @@
+comments: false
+title-block-banner: "#EDF3F9"
+title-block-banner-color: body
+toc-location: left
+format:
+  html:
+    toc: true
+    theme:
+      light: [cosmo, theme.scss]
+search: false
