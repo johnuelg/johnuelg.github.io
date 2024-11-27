@@ -75,7 +75,7 @@ resources:
 
 <div class="tab-pane fade  show active" id="python" role="tabpanel" aria-labelledby="python-tab">
 
-Combine Jupyter notebooks with flexible options to produce production quality output in a wide variety of formats. Author using traditional notebook UIs or with a plain text markdown representation of notebooks.
+Emergency Room
 
 ::: {.grid style="max-height: 605px;"}
 ::: {.g-col-12}
