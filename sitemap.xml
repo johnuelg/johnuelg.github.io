@@ -1,11 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://johnuelg.github.io/johnuelg.githu.io/index.html</loc>
-    <lastmod>2024-11-27T18:27:13.909Z</lastmod>
+    <loc>https://joanjz.github.io/index.html</loc>
+    <lastmod>2024-11-27T18:42:33.088Z</lastmod>
   </url>
   <url>
-    <loc>https://johnuelg.github.io/johnuelg.githu.io/about.html</loc>
-    <lastmod>2024-11-27T18:27:13.909Z</lastmod>
+    <loc>https://joanjz.github.io/docs/gallery/index.html</loc>
+    <lastmod>2024-11-27T18:42:32.972Z</lastmod>
+  </url>
+  <url>
+    <loc>https://joanjz.github.io/docs/blog/posts/2024-04-01-manuscripts-rmedicine/index.html</loc>
+    <lastmod>2024-11-27T18:42:32.900Z</lastmod>
+  </url>
+  <url>
+    <loc>https://joanjz.github.io/docs/blog/index.html</loc>
+    <lastmod>2024-11-27T18:42:32.896Z</lastmod>
+  </url>
+  <url>
+    <loc>https://joanjz.github.io/docs/blog/posts/2023-05-22-quarto-for-academics/index.html</loc>
+    <lastmod>2024-11-27T18:42:32.896Z</lastmod>
+  </url>
+  <url>
+    <loc>https://joanjz.github.io/docs/blog/posts/2024-05-28-conf-workshops/index.html</loc>
+    <lastmod>2024-11-27T18:42:32.904Z</lastmod>
+  </url>
+  <url>
+    <loc>https://joanjz.github.io/about.html</loc>
+    <lastmod>2024-11-27T18:42:32.896Z</lastmod>
   </url>
 </urlset>

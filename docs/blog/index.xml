@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>Taif Children&#39;s Hospital</title>
+<link>https://joanjz.github.io/docs/blog/</link>
+<atom:link href="https://joanjz.github.io/docs/blog/index.xml" rel="self" type="application/rss+xml"/>
+<description></description>
+<image>
+<url>https://joanjz.github.io/quarto-blog-v2.png</url>
+<title>Taif Children&#39;s Hospital</title>
+<link>https://joanjz.github.io/docs/blog/</link>
+</image>
+<generator>quarto-1.6.39</generator>
+<lastBuildDate>Tue, 28 May 2024 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>Quarto workshops at posit::conf(2024)</title>
+  <dc:creator>Joan Jimenez</dc:creator>
+  <link>https://joanjz.github.io/docs/blog/posts/2024-05-28-conf-workshops/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>Join us for posit::conf(2024) in Seattle! On August 12, we’re hosting a day of workshops featuring three dedicated to Quarto. Check out the options below and find the workshop that’s just right for you. Already found your ideal Quarto workshop? <a href="https://posit.co/conference/">Register today</a>!</p>
+<p><strong>Introduction to Quarto</strong></p>
+<ul>
+<li><p>Led by <a href="https://bids.berkeley.edu/people/andrew-bray">Andrew Bray</a>, Berkeley University</p></li>
+<li><p>Ideal for beginners looking to create rich documents</p></li>
+</ul>
+<p><strong>Build-a-Dashboard Workshop (with Quarto, R, and/or Python)</strong></p>
+<ul>
+<li><p>Led by <a href="https://mine-cr.com/">Mine Çetinkaya-Rundel</a>, Posit, PBC, Duke University</p></li>
+<li><p>Perfect for those familiar with computational notebooks in R and/or Python who want to create eye-catching dashboards</p></li>
+</ul>
+<p><strong>Quarto Websites</strong></p>
+<ul>
+<li><p>Led by <a href="https://www.cwick.co.nz/">Charlotte Wickham</a> and <a href="https://emilhvitfeldt.com/">Emil Hvitfeldt</a>, Posit, PBC</p></li>
+<li><p>Great choice for those wanting to build a website from scratch with Quarto</p></li>
+</ul>
+<section id="introduction-to-quarto" class="level2">
+<h2 class="anchored" data-anchor-id="introduction-to-quarto"><strong>Introduction to Quarto</strong></h2>
+<p>This workshop will prepare you to author a rich array of documents in Quarto, the next generation of R Markdown. Quarto is an open-source scientific and technical publishing system that offers multilingual programming language support to create dynamic and static documents, books, presentations, blogs, and other online resources.</p>
+<p>This workshop focuses on single documents. You will learn to create static documents, add interactivity to them with Shiny and HTML widgets, or steer them toward sophisticated scientific documents.</p>
+<p>In the afternoon, you’ll use the same authoring approaches to create slide presentations in various formats, such as reveal.js, Beamer, and PPTX.</p>
+<p><strong>This workshop is for you if you:</strong></p>
+<ul>
+<li><p>Have a basic knowledge of how to use the RStudio IDE,</p></li>
+<li><p>Have some familiarity with Markdown, or</p></li>
+<li><p>Are excited to author flexible single documents like technical reports and slide presentations.</p></li>
+</ul>
+</section>
+<section id="build-a-dashboard-workshop-with-quarto-r-andor-python" class="level2">
+<h2 class="anchored" data-anchor-id="build-a-dashboard-workshop-with-quarto-r-andor-python"><strong>Build-a-Dashboard Workshop (with Quarto, R, and/or Python)</strong></h2>
+<p>You already analyze and summarize your data in computational notebooks with R and/or Python. What’s next?&nbsp;</p>
+<p>You can share your insights or allow others to make their own conclusions in eye-catching dashboards and straight-forward to author, design, and deploy Quarto Dashboards, regardless of the language of your data processing, visualization, analysis, etc. With Quarto Dashboards, you can create elegant and production-ready dashboards using a variety of components, including static graphics (ggplot2, Matplotlib, Seaborn, etc.), interactive widgets (Plotly, Leaflet, Jupyter Widgets, htmlwidgets, etc.), tabular data, value boxes, text annotations, and more. Additionally, with intelligent resizing of components, your Quarto Dashboards look great on devices of all sizes.</p>
+<p>And importantly, you can author Quarto Dashboards without leaving the comfort of your “home” – in plain text markdown with any text editor (VS Code, RStudio, Neovim, etc.) or any notebook editor (JupyterLab, etc.). This workshop will walk you through building an increasingly complex dashboard using various layout options and deploying them as static web pages (with no special server required), as well as with a Shiny Server on the backend for enhanced interactivity.</p>
+<p><strong>This workshop is for you if you:</strong></p>
+<ul>
+<li><p>Do data analysis in computational notebooks,</p></li>
+<li><p>Share your results with your audience in static or interactive dashboards and</p></li>
+<li><p>Want to improve the design, user interface, and experience of your dashboards.</p></li>
+</ul>
+</section>
+<section id="quarto-websites" class="level2">
+<h2 class="anchored" data-anchor-id="quarto-websites"><strong>Quarto Websites</strong></h2>
+<p>Do you need a professional website to showcase your work? Or have you got an idea for a website at work, but it needs to reflect your organization’s brand? If you’ve used Quarto to produce a document, you’ve already got the technical skills to create a Quarto website. In this workshop, you’ll learn everything else you need to build a website and customize its appearance.</p>
+<p>You’ll get a running start by using a template we’ve designed to be functional and attractive but also act as a guide for your learning. Then you’ll:</p>
+<ul>
+<li><p>Add pages and navigation, and learn best practices for structuring your content.</p></li>
+<li><p>Master the basics of SCSS and CSS and how they apply to Quarto websites to customize your site’s visual appearance.</p></li>
+<li><p>Use listings, a special kind of page, to showcase related content like blog posts, projects, or talks.</p></li>
+</ul>
+<p>By the end of the workshop, you’ll have built and published (if you want) a personal website, but the same tools and techniques will apply to any kind of website you might like to build.</p>
+<p>We’ll assume you’ve used Quarto to produce documents, but we won’t assume you have any HTML, CSS/SCSS, or Git/GitHub experience, nor will we assume any particular programming language (R, Python, etc.) or level of programming experience.</p>
+<p><strong>This workshop is for you if you:</strong></p>
+<ul>
+<li><p>Have used Quarto to generate documents (e.g., HTML, PDF, MS Word, etc.)</p></li>
+<li><p>Are comfortable editing plain text documents (e.g., `.qmd`) in your IDE (e.g., RStudio, Visual Studio Code, etc.) and</p></li>
+<li><p>Want to walk away with your own personal website.</p></li>
+</ul>
+</section>
+<section id="learn-more-about-positconf2024" class="level2">
+<h2 class="anchored" data-anchor-id="learn-more-about-positconf2024"><strong>Learn more about posit::conf(2024)</strong></h2>
+<p>Want to explore the complete catalog of posit::conf(2024) workshops and talks?</p>
+<ul>
+<li><p>Workshops on August 12: Head over to our <a href="https://reg.conf.posit.co/flow/posit/positconf24/publiccatalog/page/publiccatalog?search=&amp;search.sessiontype=1675316728702001wr6r">workshop listing</a> to discover detailed information about the courses and instructors.</p></li>
+<li><p>Talks on August 13 and August 14: Peruse the <a href="https://reg.conf.posit.co/flow/posit/positconf24/publiccatalog/page/publiccatalog?search=&amp;tab.day=20240813">conference agenda</a>.</p>
+<ul>
+<li>Tip: For a quick view of all Quarto talks, filter for “Quarto” under topics.</li>
+</ul></li>
+</ul>
+<p>Ready to secure your spot? Visit the <a href="https://posit.co/conference/">conference website</a> for comprehensive details on pricing and the agenda, and <a href="https://reg.conf.posit.co/flow/posit/positconf24/reg/login">register today</a>!</p>
+
+
+</section>
+
+ ]]></description>
+  <category>Learn</category>
+  <category>Workshop</category>
+  <guid>https://joanjz.github.io/docs/blog/posts/2024-05-28-conf-workshops/</guid>
+  <pubDate>Tue, 28 May 2024 00:00:00 GMT</pubDate>
+  <media:content url="https://joanjz.github.io/docs/blog/posts/2024-05-28-conf-workshops/images/conf-workshops-thumbnail.png" medium="image" type="image/png" height="81" width="144"/>
+</item>
+<item>
+  <title>Quarto for Reproducible Medical Manuscripts</title>
+  <dc:creator>Joan Jimenez</dc:creator>
+  <link>https://joanjz.github.io/docs/blog/posts/2024-04-01-manuscripts-rmedicine/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>Recently I gave a webinar for R/Medicine titled “Quarto for Reproducible Medical Manuscripts”. You can watch the video below or on the R Consortium website at <a href="https://www.r-consortium.org/r-medicine-quarto-for-reproducible-medical-manuscripts" class="uri">https://www.r-consortium.org/r-medicine-quarto-for-reproducible-medical-manuscripts</a>.<sup>1</sup></p>
+<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/NK1onTLcgY4" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+<p>Some highlights from the webinar include:</p>
+<ul>
+<li><p>Step-by-step instructions for getting started with a new manuscript project</p></li>
+<li><p>Obtaining multiple formats from one source</p></li>
+<li><p>An overview of the rich front matter</p></li>
+<li><p>Embedding computations from supplementary notebooks</p>
+<ul>
+<li>Note that I demoed embedding computations in R from .qmd files however it’s also possible to embed computations from Jupyter notebooks and computations done in Python.</li>
+</ul></li>
+<li><p>A live-coding demo of authoring Quarto manuscripts with RStudio and all the bells-and-whistles of the visual editor, including:</p>
+<ul>
+<li>cross referencing</li>
+<li>citations</li>
+<li>inline code</li>
+</ul></li>
+<li><p>Ability to actually interact with code from a manuscript with Binder</p></li>
+<li><p>And a rich Q&amp;A, thanks to the audience!</p></li>
+</ul>
+<p>The slides (also written in Quarto!) and their source code can be found at the links below:</p>
+<ul>
+<li><p>Slides: <a href="https://mine.quarto.pub/quarto-manuscripts-rmed" class="uri">https://mine.quarto.pub/quarto-manuscripts-rmed</a></p></li>
+<li><p>Source code for slides: <a href="https://github.com/mine-cetinkaya-rundel/quarto-manuscripts-rmed" class="uri">https://github.com/mine-cetinkaya-rundel/quarto-manuscripts-rmed</a></p></li>
+</ul>
+<p>In addition, the webinar featured a reproduction of a medical manuscript with Quarto.<sup>2</sup> Materials from this reproduction can be found at the links below:</p>
+<ul>
+<li><p>Manuscript homepage: <a href="https://mine-cetinkaya-rundel.github.io/indo-rct" class="uri">https://mine-cetinkaya-rundel.github.io/indo-rct</a></p>
+<ul>
+<li>This is an HTML page but you can also access PDF and MS Word versions of the manuscript by clicking on their respective links.</li>
+<li>You can also find a link to the Binder instance for this manuscript.<sup>3</sup></li>
+</ul></li>
+<li><p>Source code for manuscript: <a href="https://github.com/mine-cetinkaya-rundel/indo-rct" class="uri">https://github.com/mine-cetinkaya-rundel/indo-rct</a></p></li>
+</ul>
+<p>Ready to get started writing a manuscript with Quarto? Go to <a href="https://quarto.org/docs/manuscripts" class="uri">https://quarto.org/docs/manuscripts</a> for more info and a step-by-step tutorial. Happy authoring!</p>
+
+
+
+
+<div id="quarto-appendix" class="default"><section id="footnotes" class="footnotes footnotes-end-of-document"><h2 class="anchored quarto-appendix-heading">Footnotes</h2>
+
+<ol>
+<li id="fn1"><p>Huge thanks to the R Consortium for hosting the webinar and making the recording available so quickly!↩︎</p></li>
+<li id="fn2"><p>Huge thanks to <a href="https://github.com/higgi13425">Peter Higgins</a> who pointed me to this article as well as the R package that contains code from the article (<a href="https://higgi13425.github.io/medicaldata/"><strong>medicaldata</strong></a>) and shared some starter code with me.↩︎</p></li>
+<li id="fn3"><p>The Binder instance takes a few minutes to launch, you can leave that running in a tab while you browse the rest of the manuscript in another tab.↩︎</p></li>
+</ol>
+</section></div> ]]></description>
+  <category>Learn</category>
+  <guid>https://joanjz.github.io/docs/blog/posts/2024-04-01-manuscripts-rmedicine/</guid>
+  <pubDate>Mon, 01 Apr 2024 00:00:00 GMT</pubDate>
+  <media:content url="https://joanjz.github.io/docs/blog/posts/2024-04-01-manuscripts-rmedicine/images/manuscripts-thumbnail.png" medium="image" type="image/png" height="76" width="144"/>
+</item>
+<item>
+  <title>Quarto for Academics</title>
+  <dc:creator>Joan Jimenez</dc:creator>
+  <link>https://joanjz.github.io/docs/blog/posts/2023-05-22-quarto-for-academics/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>Quarto offers a myriad of features that are especially useful for academics, as educators and as researchers. These range from chunk options that enable automatic linking of code to documentation, to article templates for manuscript submission to multiple journals. The following video walks you through some of these features.</p>
+<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/EbAAmrB0luA" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+<p>Select highlights include:</p>
+<ul>
+<li>Linking to documentation from code with <a href=""><code>code-link</code></a>.</li>
+<li>Informative YAML errors and YAML completion.</li>
+<li>Creating Quarto slides with <a href="">revealjs</a>.</li>
+<li><a href="">PDF export</a> of HTML slides.</li>
+<li>Annotating slides with <a href=""><code>chalkboard</code></a>.</li>
+<li>Advancing slides for your audience with <a href=""><code>multiplex</code></a>.</li>
+<li>Highlighting code with <a href=""><code>code-line-numbers</code></a>.</li>
+<li>Customizing output location with <a href=""><code>output-location</code></a>.</li>
+<li>Showing code chunk fences with <a href=""><code>echo: fenced</code></a>.</li>
+<li><a href="">Code annotation</a>.</li>
+<li>Authoring manuscripts with Quarto <a href="">journal templates</a>.</li>
+<li><a href="">Inserting citations</a> from Zotero or from a DOI with the <a href="">RStudio Visual Editor</a>.</li>
+</ul>
+<p>If you would like to follow along as you watch, you can find the source code for everything created in the video in <a href="https://github.com/mine-cetinkaya-rundel/quarto-for-academics">this GitHub repository</a>.</p>
+
+
+
+ ]]></description>
+  <category>Learn</category>
+  <guid>https://joanjz.github.io/docs/blog/posts/2023-05-22-quarto-for-academics/</guid>
+  <pubDate>Mon, 22 May 2023 00:00:00 GMT</pubDate>
+  <media:content url="https://joanjz.github.io/docs/blog/posts/2023-05-22-quarto-for-academics/quarto-for-academics-video-cover.png" medium="image" type="image/png" height="80" width="144"/>
+</item>
+</channel>
+</rss>

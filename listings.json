@@ -1,0 +1,14 @@
+[
+  {
+    "listing": "/docs/gallery/index.html",
+    "items": []
+  },
+  {
+    "listing": "/docs/blog/index.html",
+    "items": [
+      "/docs/blog/posts/2024-05-28-conf-workshops/index.html",
+      "/docs/blog/posts/2024-04-01-manuscripts-rmedicine/index.html",
+      "/docs/blog/posts/2023-05-22-quarto-for-academics/index.html"
+    ]
+  }
+]
