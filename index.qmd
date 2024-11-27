@@ -1,0 +1,13 @@
+---
+title: "johnuelg.githu.io"
+---
+
+This is a Quarto website.
+
+To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+
+```{r}
+1 + 1
+```
+
+<iframe title="ER_Dashboard" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiNWZmMjRiNTAtZjUxYy00YTdhLWJmNWYtZmU1ZWRhM2M4MjNjIiwidCI6IjIxN2U4NzlmLWU5NmItNDA2ZS1hMzgxLWFlMDA4MDEwYWUzYyIsImMiOjl9&pageName=ReportSectionba65d0760bdc0e2c6363" frameborder="0" allowFullScreen="true"></iframe>
