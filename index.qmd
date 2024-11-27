@@ -77,9 +77,9 @@ resources:
 
 Emergency Room
 
-::: {.grid style="max-height: 486px;"}
+::: {.grid style="max-height: 612px;"}
 ::: {.g-col-12}
-<iframe title="ER_Dashboard" width="800" height="486" src="https://app.powerbi.com/view?r=eyJrIjoiNWZmMjRiNTAtZjUxYy00YTdhLWJmNWYtZmU1ZWRhM2M4MjNjIiwidCI6IjIxN2U4NzlmLWU5NmItNDA2ZS1hMzgxLWFlMDA4MDEwYWUzYyIsImMiOjl9&pageName=ReportSectionba65d0760bdc0e2c6363" frameborder="0" allowFullScreen="true"></iframe>
+<iframe title="ER_Dashboard" width="1024" height="612" src="https://app.powerbi.com/view?r=eyJrIjoiNWZmMjRiNTAtZjUxYy00YTdhLWJmNWYtZmU1ZWRhM2M4MjNjIiwidCI6IjIxN2U4NzlmLWU5NmItNDA2ZS1hMzgxLWFlMDA4MDEwYWUzYyIsImMiOjl9&pageName=ReportSectionba65d0760bdc0e2c6363" frameborder="0" allowFullScreen="true"></iframe>
 :::
 :::
 
