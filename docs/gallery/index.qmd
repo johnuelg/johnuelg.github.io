@@ -25,9 +25,9 @@ aliases:
 Gallery
 :::
 
-Quarto can produce a wide variety of output formats. Here are some examples:
+ER documents encompass detailed reports, visual presentations, real-time dashboards, and interactive documents, providing insights into key metrics, trends, and performance for effective analysis and decision-making.
 
--   [Articles & Reports](#articles-reports)
+-   [Reports](#articles-reports)
 -   [Presentations](#presentations)
 -   [Dashboards](#dashboards)
 -   [Interactive Docs](#interactive-docs)

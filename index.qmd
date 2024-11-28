@@ -173,45 +173,10 @@ Quarto includes native support for Observable JS, a set of JavaScript enhancemen
 
 
 ::: {.grid}
-::: {.g-col-lg-6 .g-col-12}
-````markdown
----
-title: "observable plot"
-author: "Norah Jones"
-format: 
-  html: 
-    code-fold: true
----
+::: {.g-col-12}
 
-## Seattle Precipitation by Day (2012 to 2016)
-
-```{{ojs}}
-data = FileAttachment("seattle-weather.csv")
-  .csv({typed: true})
-  
-Plot.plot({
-  width: 800, height: 500, padding: 0,
-  color: { scheme: "blues", type: "sqrt"},
-  y: { tickFormat: i => "JFMAMJJASOND"[i] },
-  marks: [
-    Plot.cell(data, Plot.group({fill: "mean"}, {
-      x: d => new Date(d.date).getDate(),
-      y: d => new Date(d.date).getMonth(),
-      fill: "precipitation", 
-      inset: 0.5
-    }))
-  ]
-})
-```
-````
+![](images/kpi.png){style="background-color: white; border: 1px solid #dee2e6; height: 625px;" fig-alt="Example output with title, author, and date. Below, the main section reads Seattle Precipitation by Day (2012 to 2016) with a toggleable section to show code and a heatmap of the precipitation by day."}
 :::
-
-
-::: {.g-col-lg-6 .g-col-12}
-![](images/hello-observable.png){style="background-color: white; border: 1px solid #dee2e6; height: 625px;" fig-alt="Example output with title, author, and date. Below, the main section reads Seattle Precipitation by Day (2012 to 2016) with a toggleable section to show code and a heatmap of the precipitation by day."}
-:::
-
-
 :::
 
 </div>
