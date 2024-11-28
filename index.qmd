@@ -101,7 +101,7 @@ ER Patients Visits Traffic
 ::: {.grid}
 ::: {.g-col-12}
 
-```{r}
+```{r, echo=FALSE}
 #| column: screen
 #| out-width: 100%
 
