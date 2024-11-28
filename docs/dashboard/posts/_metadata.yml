@@ -1,0 +1,6 @@
+format:
+  html:
+    toc: false
+    theme:
+      light: [cosmo, theme.scss]
+search: false

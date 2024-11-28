@@ -20,6 +20,9 @@ website:
         href: docs/gallery/index.qmd  # Ensure these paths are correct
       - text: "Blog"
         href: docs/blog/index.qmd  # Ensure these paths are correct
+      - text: "Dashboard"
+        href: docs/dashboard/index.qmd  # Ensure these paths are correct
+
 
 format:
   html:

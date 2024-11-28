@@ -1,0 +1,7 @@
+---
+page-layout: full
+title-block-banner: "#EDF3F9"
+title-block-banner-color: body
+search: true
+image: quarto-blog-v2.png
+---
