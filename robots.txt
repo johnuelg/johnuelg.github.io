@@ -1,1 +1,1 @@
-Sitemap: https://joanjz.github.io/sitemap.xml
+Sitemap: https://visualizehealth.tech/sitemap.xml
