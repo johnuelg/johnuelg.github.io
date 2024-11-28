@@ -22,3 +22,38 @@ aliases:
 
 
 ::: {.content-block}
+
+::: {.hero-text}
+# Welcome to Quarto^[®]{.trademark}^ {.mt-1}
+
+### An open-source scientific and technical publishing system
+
+- Author using [Jupyter](https://jupyter.org) notebooks or with plain text markdown in your favorite editor.
+- Create dynamic content with [Python](), [R](), [Julia](), and [Observable]().
+- Publish reproducible, production quality articles, presentations, dashboards, websites, blogs, and books in HTML, PDF, MS Word, ePub, and more.
+- Share knowledge and insights organization-wide by publishing to [Posit Connect](), [Confluence](), or other publishing systems. 
+- Write using [Pandoc](https://pandoc.org) markdown, including equations, citations, crossrefs, figure panels, callouts, advanced layout, and more.
+
+### Analyze. Share. Reproduce. You have a story to tell with data---tell it with Quarto.
+
+::: {.hero-buttons}
+[Get Started](){.btn-action-primary .btn-action .btn .btn-success .btn-lg role="button"}
+[Guide](){#btn-guide .btn-action .btn .btn-info .btn-lg role="button"}
+::: 
+:::
+
+::: {.hero-animation}
+
+<video autoplay muted playsinline loop>
+<source src="images/hero_animation.mp4" type="video/mp4"/>
+</video>
+:::
+
+:::
+
+
+:::
+
+
+::: {.hello-quarto .alt-background}
+::: {.content-block}
