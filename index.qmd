@@ -106,7 +106,7 @@ ER Patients Visits Traffic
 #| out-width: 100%
 
 htmltools::tags$iframe(
-  src = "https://rawcdn.githack.com/joanjz/report-er/f45aa29bb9ca58182c7f5efaebc212553b2e3052/interactive/patients_traffic.html",
+  src = "https://rawcdn.githack.com/johnuelg/johnuelg.github.io/4c7ce666a511ef38ca747927b6777aa995bc6145/interactive/patients_traffic.html",
   style = "border: none; overflow: hidden; width: 100%; height: 850px;",
   scrolling = "no"
 )
