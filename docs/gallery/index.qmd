@@ -17,7 +17,6 @@ aliases:
   - /docs/dashboards/examples/index.html
   - /docs/dashboards/examples/
 ---
-::: {.hero-banner}
 
 ::: {#hero-banner .column-screen}
 ::: {.grid .column-page}
