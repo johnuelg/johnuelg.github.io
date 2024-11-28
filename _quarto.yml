@@ -5,7 +5,7 @@ website:
   title: "Taif Children's Hospital"
   image: "quarto-dark-bg.jpeg"  # Ensure this file is correctly placed in your project
   favicon: "favicon.png"  # Ensure favicon is in your project directory
-  site-url: https://joanjz.github.io  # Replace with actual site URL when live
+  site-url: https://visualizehealth.tech  # Replace with actual site URL when live
   search: false
   navbar:
     background: light

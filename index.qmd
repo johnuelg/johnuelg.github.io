@@ -246,8 +246,8 @@ Plot.plot({
 ::: {.features}
 
 ::: {.feature}
-### Critical Care
-Generate dynamic output using Python, R, Julia, and Observable. Create reproducible documents that can be regenerated when underlying assumptions or data change.
+### ER KPIs Analytics
+ER KPIs analytics helps optimize Emergency Department performance by analyzing patient wait times, admission and discharge rates, and length of stay. It improves triage efficiency, identifies bottlenecks in patient throughput, and tracks visit volumes and seasonal trends.
 
 ::: {.learn-more}
 [Learn more »]()
@@ -255,8 +255,8 @@ Generate dynamic output using Python, R, Julia, and Observable. Create reproduci
 :::
 
 ::: {.feature}
-### Emergency Department
-Publish high-quality articles, reports, presentations, websites, and books in HTML, PDF, MS Word, ePub, and more. Use a single source document to target multiple formats.
+### Emergency Room (ER) Traffic
+An animated storytelling chart that visually demonstrates how patient visits are distributed across different dispositions and how they progress over time.
 
 ::: {.learn-more}
 [Learn more »]()
@@ -264,8 +264,8 @@ Publish high-quality articles, reports, presentations, websites, and books in HT
 :::
 
 ::: {.feature}
-### Blood Bank 
-Pandoc markdown has excellent support for LaTeX equations and citations. Quarto adds extensions for cross-references, figure panels, callouts, advanced page layout, and more.
+### Patients Visits Trend 
+Analyzing patient visit trends in the Emergency Department (ED) helps optimize operations by identifying peak times, repeat visit patterns, and the acuity of cases. Tracking seasonal fluctuations and patient demographics enables proactive resource allocation and tailored care strategies.
 
 ::: {.learn-more}
 [Learn more »]()
@@ -273,8 +273,8 @@ Pandoc markdown has excellent support for LaTeX equations and citations. Quarto 
 :::
 
 ::: {.feature}
-### Laboratory
-Use your favorite tools including VS Code, RStudio, Jupyter Lab, or any text editor. Use the Quarto visual markdown editor for long-form documents.
+### Triage Away
+Helps improve ED performance by identifying non-urgent patients and redirecting them to appropriate care settings, reducing overcrowding and optimizing resource use.These insights ensure critical cases receive timely care while minimizing unnecessary ED congestion.
 
 ::: {.learn-more}
 [Learn more »]()
@@ -282,8 +282,9 @@ Use your favorite tools including VS Code, RStudio, Jupyter Lab, or any text edi
 :::
 
 ::: {.feature}
-### Radiology
-Engage readers by adding interactive data exploration to your documents using Jupyter Widgets, htmlwidgets for R, Observable JS, and Shiny.
+### Resource Allocation
+Study patient demographics, diagnosis trends, and treatment plans to optimize resource allocation and care protocols.
+
 
 ::: {.learn-more}
 [Learn more »]()
@@ -292,7 +293,7 @@ Engage readers by adding interactive data exploration to your documents using Ju
 
 ::: {.feature}
 ### Inpatient & Outpatient
-Publish collections of documents as a blog or full website. Create books and manuscripts in both print formats (PDF and MS Word) and online formats (HTML and ePub).
+For outpatient care and inpatient admission, analyzing length of stay, visit volumes, return rates, and wait times enables better redirection of non-emergency cases and enhances patient throughput. These insights drive more efficient operations, reduce overcrowding, and improve overall patient outcomes in the ED.
 
 ::: {.learn-more}
 [Learn more »]()
