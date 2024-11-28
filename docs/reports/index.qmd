@@ -1,5 +1,5 @@
 ---
-title: Report
+title: Reports
 subtitle: Contains all domain reports
 listing:
   sort: "date desc"
