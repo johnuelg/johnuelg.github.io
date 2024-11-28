@@ -6,7 +6,7 @@ toc: false
 css: index.css
 editor: source
 description: 
-  An open source technical publishing system for creating beautiful articles, websites, blogs, books, slides, and more. Supports Python, R, Julia, and JavaScript.
+  Emergency Room Department Websiste for Analytics and Dashboard
 hide-description: true
 image: quarto-dark-bg.jpeg
 resources: 
@@ -19,15 +19,20 @@ resources:
 ::: {.content-block}
 
 ::: {.hero-text}
-# Welcome to Quarto^[®]{.trademark}^ {.mt-1}
+# Emergency Department^[®]{.trademark}^ {.mt-1}
 
-### An open-source scientific and technical publishing system
+### Key Metrics Summary - November 2024
 
-- Author using [Jupyter](https://jupyter.org) notebooks or with plain text markdown in your favorite editor.
-- Create dynamic content with [Python](), [R](), [Julia](), and [Observable]().
-- Publish reproducible, production quality articles, presentations, dashboards, websites, blogs, and books in HTML, PDF, MS Word, ePub, and more.
-- Share knowledge and insights organization-wide by publishing to [Posit Connect](), [Confluence](), or other publishing systems. 
-- Write using [Pandoc](https://pandoc.org) markdown, including equations, citations, crossrefs, figure panels, callouts, advanced layout, and more.
+- Total visits: **4,138** (57% decrease from October)
+- Busiest Day: **Saturday** (647 Patients) Peak at 12 AM
+- Peak visit hours: **5PM** (248 Patients)
+- Highest Patient Volume: **November 6**, with 236 Patients Visits.
+- Average Door to Doctor: **14 Minutes**
+- Average Doctor to Decision: **30 Minutes**
+- Door To Disposition (%): **99%** 
+- Non-Urgent: **44%**
+- LAMA & DAMA: **1.43%**
+- Mortality Rate: **0.02%** (1 Deceased Patients)
 
 ### Analyze. Share. Reproduce. You have a story to tell with data---tell it with Quarto.
 
