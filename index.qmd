@@ -160,7 +160,7 @@ plot(sin,
 :::
 
 ::: {.g-col-lg-6 .g-col-12}
-![](images/hello-julia.png){.hello-output fig-alt="Example Plots Demo output with title, author, date published and main section on Parametric plots which contains text, a toggleable code field, and the output of the plot, with the caption Figure 1 Parametric Plots."}
+![](images/24clock.png){.hello-output fig-alt="Example Plots Demo output with title, author, date published and main section on Parametric plots which contains text, a toggleable code field, and the output of the plot, with the caption Figure 1 Parametric Plots."}
 :::
 :::
 
