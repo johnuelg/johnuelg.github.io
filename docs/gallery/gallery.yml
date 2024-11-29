@@ -25,7 +25,7 @@
   tiles:
     - title: PowerPoint
       subtitle: presentations
-      href: https://johnuelg.github.io/docs/gallery/presentations/Sep_Presentations.pptx
+      href: https://github.com/johnuelg/johnuelg.github.io/blob/main/docs/gallery/presentations/Sep_Presentations.pptx
       code: 
       thumbnail: presentations/presentations.png
    
