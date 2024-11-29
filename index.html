@@ -21,40 +21,6 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-/* CSS for syntax highlighting */
-pre > code.sourceCode { white-space: pre; position: relative; }
-pre > code.sourceCode > span { line-height: 1.25; }
-pre > code.sourceCode > span:empty { height: 1.2em; }
-.sourceCode { overflow: visible; }
-code.sourceCode > span { color: inherit; text-decoration: inherit; }
-div.sourceCode { margin: 1em 0; }
-pre.sourceCode { margin: 0; }
-@media screen {
-div.sourceCode { overflow: auto; }
-}
-@media print {
-pre > code.sourceCode { white-space: pre-wrap; }
-pre > code.sourceCode > span { display: inline-block; text-indent: -5em; padding-left: 5em; }
-}
-pre.numberSource code
-  { counter-reset: source-line 0; }
-pre.numberSource code > span
-  { position: relative; left: -4em; counter-increment: source-line; }
-pre.numberSource code > span > a:first-child::before
-  { content: counter(source-line);
-    position: relative; left: -1em; text-align: right; vertical-align: baseline;
-    border: none; display: inline-block;
-    -webkit-touch-callout: none; -webkit-user-select: none;
-    -khtml-user-select: none; -moz-user-select: none;
-    -ms-user-select: none; user-select: none;
-    padding: 0 4px; width: 4em;
-  }
-pre.numberSource { margin-left: 3em;  padding-left: 4px; }
-div.sourceCode
-  {   }
-@media screen {
-pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
-}
 </style>
 
 
@@ -220,23 +186,12 @@ KPI
 <div id="julia" class="tab-pane fade" role="tabpanel" aria-labelledby="julia-tab">
 <p>Combine markdown and Julia code to create dynamic documents that are fully reproducible. Quarto executes Julia code via the <a href="https://github.com/JuliaLang/IJulia.jl">IJulia</a> Jupyter kernel, enabling you to author in plain text (as shown below) or render existing Jupyter notebooks.</p>
 <div class="grid">
-<div class="g-col-lg-6 g-col-12">
-<div class="sourceCode" id="cb1"><pre class="sourceCode markdown code-with-copy"><code class="sourceCode markdown"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="fu">### CTAS Level 24 Hours</span></span>
-<span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-3"><a href="#cb1-3" aria-hidden="true" tabindex="-1"></a>Here is an example: &lt;span style="color: green;"&gt;100%&lt;/span&gt; for HTML or \textcolor{green}{100\%} for PDF.</span>
-<span id="cb1-4"><a href="#cb1-4" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-5"><a href="#cb1-5" aria-hidden="true" tabindex="-1"></a>**Patient Volume Distribution:**</span>
-<span id="cb1-6"><a href="#cb1-6" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span>CTAS 3 and 4 make up the majority of patients.</span>
-<span id="cb1-7"><a href="#cb1-7" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span>CTAS 1 and 2 (most urgent) cases are relatively rare.</span>
-<span id="cb1-8"><a href="#cb1-8" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span>CTAS 5 (least urgent) maintains a steady low volume</span>
-<span id="cb1-9"><a href="#cb1-9" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-10"><a href="#cb1-10" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-11"><a href="#cb1-11" aria-hidden="true" tabindex="-1"></a>**Peak Times:**</span>
-<span id="cb1-12"><a href="#cb1-12" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span>The peak volumes around 17:00-20:00.</span>
-<span id="cb1-13"><a href="#cb1-13" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span>CTAS 4 volumes increase significantly in evening hours</span>
-<span id="cb1-14"><a href="#cb1-14" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span>CTAS 3 peaks during afternoon/early evening</span>
-<span id="cb1-15"><a href="#cb1-15" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span>Critical cases (CTAS 1-2) occur sporadically throughout the day</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
-</div>
+<section id="ctas-level-24-hours" class="g-col-lg-6 g-col-12">
+<h3>CTAS Level 24 Hours</h3>
+<p>Here is an example: <span style="color: green;">100%</span> for HTML or for PDF.</p>
+<p><strong>Patient Volume Distribution:</strong> - CTAS 3 and 4 make up the majority of patients. - CTAS 1 and 2 (most urgent) cases are relatively rare. - CTAS 5 (least urgent) maintains a steady low volume</p>
+<p><strong>Peak Times:</strong> - The peak volumes around 17:00-20:00. - CTAS 4 volumes increase significantly in evening hours - CTAS 3 peaks during afternoon/early evening - Critical cases (CTAS 1-2) occur sporadically throughout the day</p>
+</section>
 <div class="g-col-lg-6 g-col-12">
 <p><img src="images/24clock.png" class="hello-output img-fluid" alt="Example Plots Demo output with title, author, date published and main section on Parametric plots which contains text, a toggleable code field, and the output of the plot, with the caption Figure 1 Parametric Plots."></p>
 </div>
