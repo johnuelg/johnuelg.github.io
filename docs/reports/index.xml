@@ -126,8 +126,7 @@
 </ul>
 <p>The slides (also written in Quarto!) and their source code can be found at the links below:</p>
 <ul>
-<li><p>Slides: <a href="https://google.com" class="uri">https://google.com</a></p></li>
-<li><p>Source code for slides: <a href="https://google.com" class="uri">https://google.com</a></p></li>
+<li>Slides: <a href="https://google.com" class="uri">https://google.com</a></li>
 </ul>
 <p>Quisque viverra nisl semper cursus fringilla. Aenean sed massa turpis. Quisque tincidunt pulvinar erat ut vestibulum. Mauris tincidunt mi id rhoncus pharetra:</p>
 <ul>
@@ -136,7 +135,6 @@
 <li>Praesent porttitor elementum tempus. Fusce pellentesque augue quam, eget varius nisi tincidunt a. Pellentesque congue odio bibendum consequat egestas.</li>
 <li>Quisque viverra nisl semper cursus fringilla. Aenean sed massa turpis.<sup>1</sup></li>
 </ul></li>
-<li><p>Source code for manuscript: <a href="https://google.com" class="uri">https://google.com</a></p></li>
 </ul>
 <p>Praesent porttitor elementum tempus. Fusce pellentesque augue quam, eget varius nisi tincidunt a. Pellentesque congue odio bibendum consequat egestas. Donec vitae sollicitudin libero,</p>
 
@@ -147,7 +145,7 @@
 <div id="quarto-appendix" class="default"><section id="footnotes" class="footnotes footnotes-end-of-document"><h2 class="anchored quarto-appendix-heading">Footnotes</h2>
 
 <ol>
-<li id="fn1"><p>Praesent porttitor elementum tempus. Fusce pellentesque augue quam, eget varius nisi tincidunt a. Pellentesque congue odio bibendum consequat egestas..↩︎</p></li>
+<li id="fn1"><p>Vestibulum at dolor vel dolor maximus mollis sit amet vitae sem. Nulla vehicula ut ex eget bibendum.↩︎</p></li>
 </ol>
 </section></div> ]]></description>
   <category>ER</category>
