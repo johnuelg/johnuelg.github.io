@@ -1,6 +1,6 @@
 
 - caption: "Emergency Department Reports"
-  image: "articles/advanced-layout-pdf.png"
+  image: "articles/ER_report.jpg"
   link: "#articles-reports"
   
 - caption: "Data-driven Presentations"
@@ -8,8 +8,8 @@
   link: "#presentations"
   
 - caption: "Engage readers with interactivity"
-  image: "interactive/interactive-jupyter.png"
-  link: "#interactive-docs"
+  image: "interactive/dashboard.png"
+  link: "#dashboard"
 
 
   
