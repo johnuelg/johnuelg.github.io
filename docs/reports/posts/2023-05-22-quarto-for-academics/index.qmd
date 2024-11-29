@@ -1,16 +1,14 @@
 ---
 title: Emergency Room
-subtitle: Patients Visits Traffic
 description: |
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris et ultrices metus. Morbi sit amet turpis vel mauris rhoncus dapibus. Morbi pharetra.
+  Patients Visits Traffic 
 author: Joan Jimenez
-date: "05/22/2023"
+date: "9/31/2024"
 image: "24_Clock_Sept.png"
-image-alt: "Quarto logo on a blue background and the title of the video - Quarto for Academics"
+image-alt: "From multiple Quarto documents and scripts in R and python to PDF or Word output."
 categories:
   - ER
-  - Patients Visits
-  
+  - Report
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris et ultrices metus. Morbi sit amet turpis vel mauris rhoncus dapibus. Morbi pharetra, nunc ac scelerisque finibus, ante dui semper eros, accumsan tempor erat neque ac arcu. Suspendisse potenti. Nulla scelerisque porta erat, in vestibulum est iaculis at. Curabitur elementum sapien nisl, at egestas nibh porta vitae. Praesent accumsan venenatis volutpat. Mauris molestie urna quam, in rhoncus tellus convallis quis. Sed ultrices dictum urna, vel feugiat massa gravida id. 
