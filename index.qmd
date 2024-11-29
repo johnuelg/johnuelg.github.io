@@ -131,9 +131,9 @@ Here is an example: <span style="color: green;">100%</span> for HTML or \textcol
 
 **Patient Volume Distribution:**
 
-- CTAS 3 and 4 make up the majority of patients.
-- CTAS 1 and 2 (most urgent) cases are relatively rare.
-- CTAS 5 (least urgent) maintains a steady low volume
+- <span style="color: yellow;">CTAS 3</span> and <span style="color: green;">CTAS 4</span>  make up the majority of patients.
+- <span style="color: blue;">CTAS 1</span> and <span style="color: red;">CTAS 2</span> (most urgent) cases are relatively rare.
+- <span style="color: gray;">CTAS 5</span> (least urgent) maintains a steady low volume
 
 
 **Peak Times:**
