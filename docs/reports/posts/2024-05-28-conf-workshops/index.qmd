@@ -8,7 +8,7 @@ image: "images/p1.png"
 image-alt: "posit::conf(2024) iconography including Seattle skyline on the left and the words 'Quarto workshops' on the right."
 categories:
   - ER
-  - REPORT
+  - Report
 ---
 
 Quisque viverra nisl semper cursus fringilla. Aenean sed massa turpis. Quisque tincidunt pulvinar erat ut vestibulum. Mauris tincidunt mi id rhoncus pharetra. Quisque elementum enim id neque tempor, quis bibendum sem pretium. Mauris nec enim ut quam sollicitudin placerat. For more information visit [ER Deparment](https://google.com)!
