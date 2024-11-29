@@ -125,8 +125,10 @@ Combine markdown and Julia code to create dynamic documents that are fully repro
 
 ::: {.grid}
 ::: {.g-col-lg-6 .g-col-12}
+
 ### CTAS Level 24 Hours
-<hr style="border: 1px solid gray;">
+---
+***
 
 
 **Patient Volume Distribution:**
