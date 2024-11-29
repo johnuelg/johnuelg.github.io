@@ -126,8 +126,8 @@ Combine markdown and Julia code to create dynamic documents that are fully repro
 ::: {.grid}
 ::: {.g-col-lg-6 .g-col-12}
 ### CTAS Level 24 Hours
+<hr style="border: 1px solid gray;">
 
-Here is an example: <span style="color: green;">100%</span> for HTML or \textcolor{green}{100\%} for PDF.
 
 **Patient Volume Distribution:**
 
@@ -138,10 +138,10 @@ Here is an example: <span style="color: green;">100%</span> for HTML or \textcol
 
 **Peak Times:**
 
-- The peak volumes around 17:00-20:00.
-- CTAS 4 volumes increase significantly in evening hours
-- CTAS 3 peaks during afternoon/early evening
-- Critical cases (CTAS 1-2) occur sporadically throughout the day
+- The peak volumes around **17:00-20:00**.
+- <span style="color: green;">CTAS 4</span> volumes increase significantly in evening hours
+- <span style="color: yellow;">CTAS 3</span> peaks during afternoon/early evening
+- Critical cases <span style="color: blue;">CTAS 1</span> and <span style="color: red;">CTAS 2</span> occur     sporadically throughout the day
 
 
 :::
