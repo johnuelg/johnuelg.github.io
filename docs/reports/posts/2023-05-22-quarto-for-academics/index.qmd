@@ -13,7 +13,7 @@ categories:
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris et ultrices metus. Morbi sit amet turpis vel mauris rhoncus dapibus. Morbi pharetra, nunc ac scelerisque finibus, ante dui semper eros, accumsan tempor erat neque ac arcu. Suspendisse potenti. Nulla scelerisque porta erat, in vestibulum est iaculis at. Curabitur elementum sapien nisl, at egestas nibh porta vitae. Praesent accumsan venenatis volutpat. Mauris molestie urna quam, in rhoncus tellus convallis quis. Sed ultrices dictum urna, vel feugiat massa gravida id. 
 
-{{< video "https://youtu.be/0UN_HbOTTcI" >}}
+{{< video "https://youtu.be/ev4oG5WUOug" >}}
 
 
 Key Metrics Summary - November 2024
