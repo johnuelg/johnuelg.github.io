@@ -27,7 +27,7 @@
       subtitle: presentations
       href: https://quarto-dev.github.io/quarto-gallery/presentations/powerpoint/powerpoint.pptx
       code: 
-      thumbnail: presentations/presentations-powerpoint.png
+      thumbnail: presentations/presentations.png
    
  
 - category: Dashboards
