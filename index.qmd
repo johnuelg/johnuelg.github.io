@@ -128,7 +128,7 @@ Combine markdown and Julia code to create dynamic documents that are fully repro
 
 ### CTAS Level 24 Hours
 ---
-***
+
 
 
 **Patient Volume Distribution:**
