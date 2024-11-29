@@ -1,32 +1,37 @@
 ---
-title: Quarto for Reproducible Medical Manuscripts 
+title: ER Report for October
 description: |
-  R/Medicine webinar on Quarto manuscripts
+  In sodales est nec lacus pulvinar congue. 
 author: Joan Jimenez
-date: "04/01/2024"
-image: "images/manuscripts-thumbnail.png"
+date: "10/31/2024"
+image: "images/p2.png"
 image-alt: "From multiple Quarto documents and scripts in R and python to PDF or Word output."
 categories:
-  - Learn
+  - ER
+  - REPORT
+  
 ---
 
-Recently I gave a webinar for R/Medicine titled "Quarto for Reproducible Medical Manuscripts". You can watch the video below or on the R Consortium website at <https://www.r-consortium.org/r-medicine-quarto-for-reproducible-medical-manuscripts>.[^1]
+In sodales est nec lacus pulvinar congue. Curabitur tortor mauris, pharetra ac consequat sit amet, blandit aliquet ex. Aenean vehicula dolor ac varius ultricies.
 
-{{< video https://www.youtube.com/embed/NK1onTLcgY4 >}}
 
-Some highlights from the webinar include:
 
--   Step-by-step instructions for getting started with a new manuscript project
+### Key Metrics Summary - November 2024
 
--   Obtaining multiple formats from one source
+- Total Patients Visits: **4,138** (57% decrease from October)
+- Busiest Day: **Saturday** (647 Patients) Peak at **12 AM**
+- Peak Visit Hours: **5PM** (248 Patients)
+- Highest Patient Volume: **November 6**, with 236 Patients Visits.
+- Average Door to Doctor: <span style="color: green;font-weight: bold;">14 Minutes</span>
+- Average Doctor to Decision: <span style="color: green;font-weight: bold;">30 Minutes</span>
+- Door To Disposition: <span style="color: blue;font-weight: bold;">99%</span> 
+- Non-Urgent:<span style="color: green; font-weight: bold;">44%</span>
+- LAMA & DAMA: **1.43%**
+- Mortality Rate: **0.02%** (1 Deceased Patients)
 
--   An overview of the rich front matter
-
--   Embedding computations from supplementary notebooks
-
-    -   Note that I demoed embedding computations in R from .qmd files however it's also possible to embed computations from Jupyter notebooks and computations done in Python.
-
--   A live-coding demo of authoring Quarto manuscripts with RStudio and all the bells-and-whistles of the visual editor, including:
+    -   in vestibulum est iaculis at. Curabitur elementum sapien nisl, at egestas nibh porta vitae. Praesent accumsan venenatis volutpat. 
+    
+-  In sodales est nec lacus pulvinar congue. Curabitur tortor mauris, pharetra ac consequat sit amet, blandit aliquet ex. Aenean vehicula dolor ac varius ultricies:
 
     -   cross referencing
     -   citations
@@ -38,23 +43,23 @@ Some highlights from the webinar include:
 
 The slides (also written in Quarto!) and their source code can be found at the links below:
 
--   Slides: <https://mine.quarto.pub/quarto-manuscripts-rmed>
+-   Slides: <https://google.com>
 
--   Source code for slides: <https://github.com/mine-cetinkaya-rundel/quarto-manuscripts-rmed>
+-   Source code for slides: <https://google.com>
 
-In addition, the webinar featured a reproduction of a medical manuscript with Quarto.[^2] Materials from this reproduction can be found at the links below:
+Quisque viverra nisl semper cursus fringilla. Aenean sed massa turpis. Quisque tincidunt pulvinar erat ut vestibulum. Mauris tincidunt mi id rhoncus pharetra:
 
--   Manuscript homepage: <https://mine-cetinkaya-rundel.github.io/indo-rct>
+-   Manuscript homepage: <https://google.com>
 
-    -   This is an HTML page but you can also access PDF and MS Word versions of the manuscript by clicking on their respective links.
-    -   You can also find a link to the Binder instance for this manuscript.[^3]
+    -   Praesent porttitor elementum tempus. Fusce pellentesque augue quam, eget varius nisi tincidunt a. Pellentesque congue odio bibendum consequat egestas.
+    -   Quisque viverra nisl semper cursus fringilla. Aenean sed massa turpis.[^3]
 
--   Source code for manuscript: <https://github.com/mine-cetinkaya-rundel/indo-rct>
+-   Source code for manuscript: <https://google.com>
 
-Ready to get started writing a manuscript with Quarto? Go to <https://quarto.org/docs/manuscripts> for more info and a step-by-step tutorial. Happy authoring!
+Praesent porttitor elementum tempus. Fusce pellentesque augue quam, eget varius nisi tincidunt a. Pellentesque congue odio bibendum consequat egestas. Donec vitae sollicitudin libero,
 
-[^1]: Huge thanks to the R Consortium for hosting the webinar and making the recording available so quickly!
+[^1]: Quisque viverra nisl semper cursus fringilla.!
 
-[^2]: Huge thanks to [Peter Higgins](https://github.com/higgi13425) who pointed me to this article as well as the R package that contains code from the article ([**medicaldata**](https://higgi13425.github.io/medicaldata/)) and shared some starter code with me.
+[^2]: Huge thanks to [Joan Jimenez](https://google.com) who pointed me to this report as well as the cases that contains details from the report ([**ER**](https://google.com) and shared some starter code with me.
 
-[^3]: The Binder instance takes a few minutes to launch, you can leave that running in a tab while you browse the rest of the manuscript in another tab.
+[^3]: Praesent porttitor elementum tempus. Fusce pellentesque augue quam, eget varius nisi tincidunt a. Pellentesque congue odio bibendum consequat egestas..

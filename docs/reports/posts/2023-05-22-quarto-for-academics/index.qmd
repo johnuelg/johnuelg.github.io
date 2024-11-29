@@ -1,33 +1,32 @@
 ---
-title: Quarto for Academics
-subtitle: A potpourri of Quarto features useful for academics
+title: Emergency Room
+subtitle: Patients Visits Traffic
 description: |
-  A video highlighting some of Quarto's features that are especially useful for academics, as educators and as researchers.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris et ultrices metus. Morbi sit amet turpis vel mauris rhoncus dapibus. Morbi pharetra.
 categories:
-  - Learn
+  - ER
+  - Patients Visits
 author: Joan Jimenez
 date: "05/22/2023"
-image: "quarto-for-academics-video-cover.png"
+image: "24_Clock_Sept.png"
 image-alt: "Quarto logo on a blue background and the title of the video - Quarto for Academics"
 ---
 
-Quarto offers a myriad of features that are especially useful for academics, as educators and as researchers. These range from chunk options that enable automatic linking of code to documentation, to article templates for manuscript submission to multiple journals. The following video walks you through some of these features.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris et ultrices metus. Morbi sit amet turpis vel mauris rhoncus dapibus. Morbi pharetra, nunc ac scelerisque finibus, ante dui semper eros, accumsan tempor erat neque ac arcu. Suspendisse potenti. Nulla scelerisque porta erat, in vestibulum est iaculis at. Curabitur elementum sapien nisl, at egestas nibh porta vitae. Praesent accumsan venenatis volutpat. Mauris molestie urna quam, in rhoncus tellus convallis quis. Sed ultrices dictum urna, vel feugiat massa gravida id. 
 
-{{< video "https://www.youtube.com/embed/EbAAmrB0luA" >}}
+{{< video "https://youtu.be/0UN_HbOTTcI" >}}
 
-Select highlights include:
 
--   Linking to documentation from code with [`code-link`]().
--   Informative YAML errors and YAML completion.
--   Creating Quarto slides with [revealjs]().
--   [PDF export]() of HTML slides.
--   Annotating slides with [`chalkboard`]().
--   Advancing slides for your audience with [`multiplex`]().
--   Highlighting code with [`code-line-numbers`]().
--   Customizing output location with [`output-location`]().
--   Showing code chunk fences with [`echo: fenced`]().
--   [Code annotation]().
--   Authoring manuscripts with Quarto [journal templates]().
--   [Inserting citations]() from Zotero or from a DOI with the [RStudio Visual Editor]().
+Key Metrics Summary - November 2024
 
-If you would like to follow along as you watch, you can find the source code for everything created in the video in [this GitHub repository](https://github.com/mine-cetinkaya-rundel/quarto-for-academics).
+- Total Patients Visits: **4,138** (57% decrease from October)
+- Busiest Day: **Saturday** (647 Patients) Peak at **12 AM**
+- Peak Visit Hours: **5PM** (248 Patients)
+- Highest Patient Volume: **November 6**, with 236 Patients Visits.
+- Average Door to Doctor: <span style="color: green;font-weight: bold;">14 Minutes</span>
+- Average Doctor to Decision: <span style="color: green;font-weight: bold;">30 Minutes</span>
+- Door To Disposition: <span style="color: blue;font-weight: bold;">99%</span> 
+- Non-Urgent:<span style="color: green; font-weight: bold;">44%</span>
+- LAMA & DAMA: **1.43%**
+- Mortality Rate: **0.02%** (1 Deceased Patients)
+
