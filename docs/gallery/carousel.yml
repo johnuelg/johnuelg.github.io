@@ -7,9 +7,13 @@
   image: "presentations/presentations.png"
   link: "#presentations"
   
+- caption: "Dashboard"
+  image: "dashboards/dashboard.png"
+  link: "#dashboards"
+  
 - caption: "Engage readers with interactivity"
   image: "interactive/dashboard.png"
-  link: "#dashboard"
+  link: "#interactive-docs"
 
 
   

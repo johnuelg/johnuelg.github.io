@@ -5,177 +5,49 @@
   tiles:
     - title: HTML
       subtitle: for web publishing
-      href: https://quarto-dev.github.io/quarto-gallery/articles/html/html.html
-      code: https://github.com/quarto-dev/quarto-gallery/blob/main/articles/html/html.qmd
+      href: 
+      code: 
       thumbnail: articles/articles-html.png
-    - title: PDF
-      subtitle: for high quality print
-      href: https://github.com/nmfs-opensci/quarto_titlepages/blob/main/example_1.pdf
-      code: https://github.com/nmfs-opensci/quarto_titlepages/blob/main/example_1.qmd
-      thumbnail: articles/articles-pdf.png
-    - title: MS Word
-      subtitle: for Office workflows
-      href: https://quarto-dev.github.io/quarto-gallery/articles/msword/msword.docx
-      code:  https://github.com/quarto-dev/quarto-gallery/blob/main/articles/msword/msword.qmd
-      thumbnail: articles/articles-msword.png
     - title: HTML
       subtitle: with advanced layout
-      href: https://quarto-dev.github.io/quarto-gallery/page-layout/tufte.html
-      code: https://github.com/quarto-dev/quarto-gallery/blob/main/page-layout/tufte.qmd
+      href: 
+      code: 
       thumbnail: articles/advanced-layout-html.png
     - title: PDF
       subtitle: with advanced layout
-      href: https://quarto-dev.github.io/quarto-gallery/page-layout/tufte.pdf
-      code: https://github.com/quarto-dev/quarto-gallery/blob/main/page-layout/tufte.qmd
+      href: 
+      code: 
       thumbnail: articles/advanced-layout-pdf.png
 
 - category: Presentations
   description: |
     Create presentations (slide show) in a variety of formats.
   tiles:
-    - title: RevealJS 
-      subtitle: HTML presentations
-      href: https://quarto.org/docs/presentations/revealjs/demo/
-      code: https://github.com/quarto-dev/quarto-web/blob/main/docs/presentations/revealjs/demo/index.qmd
-      thumbnail: presentations/presentations-revealjs.png
-    - title: Beamer 
-      subtitle: PDF presentations
-      href: https://quarto-dev.github.io/quarto-gallery/presentations/beamer/beamer.pdf
-      code: https://github.com/quarto-dev/quarto-gallery/blob/main/presentations/beamer/beamer.qmd
-      thumbnail: presentations/presentations-beamer.png
     - title: PowerPoint
       subtitle: presentations
       href: https://quarto-dev.github.io/quarto-gallery/presentations/powerpoint/powerpoint.pptx
-      code: https://github.com/quarto-dev/quarto-gallery/blob/main/presentations/powerpoint/powerpoint.qmd
+      code: 
       thumbnail: presentations/presentations-powerpoint.png
-    - title: Streamlining with R
-      href: https://meghan.rbind.io/slides/neair/neair.html
-      code: https://github.com/meghall06/personal-website/blob/master/static/slides/NEAIR/NEAIR.qmd
-      thumbnail: presentations/presentations-streamlining-with-r.png
-    - title: An educator's perspective of the tidyverse
-      href: https://mine-cetinkaya-rundel.github.io/tidyperspective/talks/dagstat-2022.html
-      code: https://github.com/mine-cetinkaya-rundel/tidyperspective/blob/main/talks/dagstat-2022.qmd
-      thumbnail: presentations/presentations-educators-perspective-tidyverse.png
-    - title: An anthology of experimental designs
-      href: https://emitanaka.org/slides/toronto2022/
-      code: https://github.com/emitanaka/talks/tree/master/Toronto2022
-      thumbnail: presentations/presentations-anthology-experimental-designs.png
-    - title: The untold story of palmerpenguins
-      href: https://apreshill.github.io/palmerpenguins-useR-2022/
-      code: https://github.com/apreshill/palmerpenguins-useR-2022
-      thumbnail: presentations/presentations-penguins-story.png
-    - title: Outrageously efficient EDA
-      href: https://jthomasmock.github.io/arrow-dplyr/
-      code: https://github.com/jthomasmock/arrow-dplyr
-      thumbnail: presentations/presentations-arrow-dplyr.png
-    - title: Improvements in textrecipes
-      href: https://emilhvitfeldt.github.io/talk-useR2022-textrecipes/
-      code: https://github.com/EmilHvitfeldt/talk-useR2022-textrecipes
-      thumbnail: presentations/presentations-textrecipes.png
+   
  
 - category: Dashboards
   tiles:
-    - title: Stock Explorer
+    - title: Data Explorer Tools
       subtitle: Python
-      href: https://jjallaire.github.io/stock-explorer-dashboard/
-      code: https://github.com/jjallaire/stock-explorer-dashboard/blob/main/dashboard.qmd
+      href: https://lalajz.shinyapps.io/explore_data
       thumbnail: dashboards/stock-explorer-dashboard.png
 
-    - title: Gapminder
+    - title: Test Analytics
       subtitle: Python
-      href: https://jjallaire.github.io/gapminder-dashboard/
-      code: https://github.com/jjallaire/gapminder-dashboard/blob/main/gapminder.qmd
+      href: https://lalajz.shinyapps.io/textSentiment/
       thumbnail: dashboards/gapminder-dashboard.png
  
-    - title: Customer Churn
+    - title: Sentiment Analysis
       subtitle: Python
-      href: https://jjallaire.github.io/customer-churn-dashboard/
-      code: https://github.com/jjallaire/customer-churn-dashboard/blob/main/dashboard.qmd
+      href: https://shielaj.shinyapps.io/sentext/
       thumbnail: dashboards/customer-churn-dashboard.png
  
-    - title: NFL Injuries
-      subtitle: Python
-      href: https://jjallaire.github.io/nfl-injuries-dashboard/
-      code: https://github.com/jjallaire/nfl-injuries-dashboard/blob/main/nfl-injuries.qmd
-      thumbnail: dashboards/nfl-injuries-dashboard.png
-      
-    - title: Housing Market at a Glance
-      subtitle: Python
-      href: https://ivelasq.github.io/mortgage-dashboard/
-      code: https://github.com/ivelasq/mortgage-dashboard/blob/main/index.qmd
-      thumbnail: dashboards/housing-market-dashboard.png
-
-    - title: Restaurant Inspections
-      subtitle: Python
-      href: https://www.isabelizimm.me/vetiverdashboard/
-      code: https://github.com/isabelizimm/vetiverdashboard/blob/main/index.qmd
-      thumbnail: dashboards/restaurant-dashboard.png
-
-    - title: Penguins
-      subtitle: Python (Shiny)
-      href: https://jjallaire.shinyapps.io/penguins-dashboard/
-      code: https://github.com/jjallaire/penguins-dashboard/blob/main/penguins.qmd
-      thumbnail: dashboards/penguins-dashboard.png
-
-    - title: Retirement
-      subtitle: Python (Shiny w/ Pyodide)
-      href: https://wch.github.io/retirement-simulation-dashboard/
-      code: https://github.com/wch/retirement-simulation-dashboard
-      thumbnail: dashboards/retirement-gallery.png
-
-    - title: New Zealand Earthquakes
-      subtitle: R
-      href: https://colorado.posit.co/rsc/nz-quakes/quakes.html
-      code: https://github.com/cwickham/quakes/blob/main/quakes.qmd
-      thumbnail: dashboards/nz-quakes-dashboard.png
-
-    - title: MyNorfolk Requests
-      subtitle: R
-      href: https://grrrck.quarto.pub/mynorfolk-dash/
-      code: https://github.com/gadenbuie/mynorfolk-dash/blob/main/index.qmd
-      thumbnail: dashboards/mynorfolk-dash.png
-
-    - title: Labor and Delivery
-      subtitle: R
-      href: https://mine-cetinkaya-rundel.github.io/ld-dashboard/
-      code: https://github.com/mine-cetinkaya-rundel/ld-dashboard/blob/main/dashboard.qmd
-      thumbnail: dashboards/ld-dashboard.png
-
-    - title: Diamonds
-      subtitle: R (Shiny)
-      href: https://jjallaire.shinyapps.io/diamonds/
-      code: https://github.com/jjallaire/diamonds-dashboard/blob/main/diamonds.qmd
-      thumbnail: dashboards/diamonds-dashboard.png
-
-    - title: Penguins
-      subtitle: Observable
-      href: https://jjallaire.github.io/ojs-penguins-dashboard/
-      code: https://github.com/jjallaire/ojs-penguins-dashboard/blob/main/penguins.qmd
-      thumbnail: dashboards/ojs-penguins-dashboard.png
-      
-    - title: Clickable Weather Forecast Map
-      subtitle: Observable
-      href: https://cscheid.github.io/quarto-dashboard-ojs-examples/weather.html
-      code: https://github.com/cscheid/quarto-dashboard-ojs-examples/blob/main/weather.qmd
-      thumbnail: dashboards/weather-ojs-dashboard.jpg
-
-    - title: Interactive Linked Views
-      subtitle: Observable
-      href: https://cscheid.github.io/quarto-dashboard-ojs-examples/flights.html
-      code: https://github.com/cscheid/quarto-dashboard-ojs-examples/blob/main/flights.qmd
-      thumbnail: dashboards/ojs-flights.png
-
-    - title: Dashing Through the Snow
-      subtitle: Python
-      href: https://mine.quarto.pub/dashing-through-snow-py/
-      code: https://github.com/mine-cetinkaya-rundel/dashing-through-snow/
-      thumbnail: dashboards/dashing-through-snow.png
-
-    - title: Olympic Games
-      subtitle: R & Python
-      href: https://mine.quarto.pub/olympic-games-py
-      code: https://github.com/posit-conf-2024/olympicdash
-      thumbnail: dashboards/olympics-game.png
+   
   
 - category: Interactive Docs
   description: |
@@ -183,17 +55,17 @@
   tiles:
     - title: Observable
       subtitle: reactive JavaScript
-      href: ../interactive/ojs/examples/penguins.html
-      code: https://github.com/quarto-dev/quarto-web/blob/main/docs/interactive/ojs/examples/penguins.qmd
+      href: 
+      code: 
       thumbnail: interactive/interactive-ojs.png
     - title: Shiny
       subtitle: web framework for R
-      href: https://jjallaire.shinyapps.io/diamonds-explorer/
-      code: https://github.com/quarto-dev/quarto-web/blob/main/docs/interactive/shiny/_examples/diamonds/shiny-diamonds.qmd
+      href:
+      code: 
       thumbnail: interactive/interactive-shiny.png
     - title: Jupyter 
       subtitle: interactive widgets
-      href: ../interactive/widgets/jupyter.html
-      code: https://github.com/quarto-dev/quarto-web/blob/main/docs/interactive/widgets/jupyter.qmd
+      href: 
+      code: 
       thumbnail: interactive/interactive-jupyter.png
   
