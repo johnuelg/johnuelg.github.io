@@ -129,8 +129,6 @@ Combine markdown and Julia code to create dynamic documents that are fully repro
 ### CTAS Level 24 Hours
 ---
 
-
-
 **Patient Volume Distribution:**
 
 - <span style="color: yellow;">CTAS 3</span> and <span style="color: green;">CTAS 4</span>  make up the majority of patients.
@@ -157,7 +155,7 @@ Combine markdown and Julia code to create dynamic documents that are fully repro
 
 <div class="tab-pane fade" id="observable" role="tabpanel" aria-labelledby="observable-tab">
 
-Quarto includes native support for Observable JS, a set of JavaScript enhancements created by Mike Bostock (the author of D3). Observable JS uses a reactive execution model, and is especially well suited for interactive data exploration and analysis.
+Key Performance Indicator (KPI)
 
 
 
