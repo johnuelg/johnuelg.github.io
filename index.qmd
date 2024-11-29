@@ -125,7 +125,7 @@ Combine markdown and Julia code to create dynamic documents that are fully repro
 
 ::: {.grid}
 ::: {.g-col-lg-6 .g-col-12}
-````markdown
+
 ### CTAS Level 24 Hours
 
 Here is an example: <span style="color: green;">100%</span> for HTML or \textcolor{green}{100\%} for PDF.
@@ -142,7 +142,7 @@ Here is an example: <span style="color: green;">100%</span> for HTML or \textcol
 - CTAS 3 peaks during afternoon/early evening
 - Critical cases (CTAS 1-2) occur sporadically throughout the day
 
-````
+
 :::
 
 ::: {.g-col-lg-6 .g-col-12}
