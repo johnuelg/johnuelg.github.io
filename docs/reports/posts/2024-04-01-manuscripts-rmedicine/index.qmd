@@ -45,7 +45,6 @@ The slides (also written in Quarto!) and their source code can be found at the l
 
 -   Slides: <https://google.com>
 
--   Source code for slides: <https://google.com>
 
 Quisque viverra nisl semper cursus fringilla. Aenean sed massa turpis. Quisque tincidunt pulvinar erat ut vestibulum. Mauris tincidunt mi id rhoncus pharetra:
 
@@ -54,12 +53,10 @@ Quisque viverra nisl semper cursus fringilla. Aenean sed massa turpis. Quisque t
     -   Praesent porttitor elementum tempus. Fusce pellentesque augue quam, eget varius nisi tincidunt a. Pellentesque congue odio bibendum consequat egestas.
     -   Quisque viverra nisl semper cursus fringilla. Aenean sed massa turpis.[^3]
 
--   Source code for manuscript: <https://google.com>
-
 Praesent porttitor elementum tempus. Fusce pellentesque augue quam, eget varius nisi tincidunt a. Pellentesque congue odio bibendum consequat egestas. Donec vitae sollicitudin libero,
 
-[^1]: Quisque viverra nisl semper cursus fringilla.!
+[^1]: Quisque elementum enim id neque tempor, quis bibendum sem pretium.
 
-[^2]: Huge thanks to [Joan Jimenez](https://google.com) who pointed me to this report as well as the cases that contains details from the report ([**ER**](https://google.com) and shared some starter code with me.
+[^2]: Huge thanks to [Joan Jimenez](https://google.com) Quisque elementum enim id neque tempor, quis bibendum sem pretium. contains code from the report ([**ER Data**](https://google.com)).
 
-[^3]: Praesent porttitor elementum tempus. Fusce pellentesque augue quam, eget varius nisi tincidunt a. Pellentesque congue odio bibendum consequat egestas..
+[^3]: Vestibulum at dolor vel dolor maximus mollis sit amet vitae sem. Nulla vehicula ut ex eget bibendum. 
