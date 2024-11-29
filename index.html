@@ -186,16 +186,28 @@ KPI
 <div id="julia" class="tab-pane fade" role="tabpanel" aria-labelledby="julia-tab">
 <p>Combine markdown and Julia code to create dynamic documents that are fully reproducible. Quarto executes Julia code via the <a href="https://github.com/JuliaLang/IJulia.jl">IJulia</a> Jupyter kernel, enabling you to author in plain text (as shown below) or render existing Jupyter notebooks.</p>
 <div class="grid">
-<section id="ctas-level-24-hours" class="g-col-lg-6 g-col-12">
-<h3>CTAS Level 24 Hours</h3>
-<p>Here is an example: <span style="color: green;">100%</span> for HTML or for PDF.</p>
-<p><strong>Patient Volume Distribution:</strong> - CTAS 3 and 4 make up the majority of patients. - CTAS 1 and 2 (most urgent) cases are relatively rare. - CTAS 5 (least urgent) maintains a steady low volume</p>
-<p><strong>Peak Times:</strong> - The peak volumes around 17:00-20:00. - CTAS 4 volumes increase significantly in evening hours - CTAS 3 peaks during afternoon/early evening - Critical cases (CTAS 1-2) occur sporadically throughout the day</p>
-</section>
+<div class="g-col-lg-6 g-col-12">
+<h3 id="ctas-level-24-hours">CTAS Level 24 Hours</h3>
+<hr style="border: 1px solid gray;">
+<!-- For HTML -->
+<p><strong>Patient Volume Distribution:</strong></p>
+<ul>
+<li>CTAS 3 and 4 make up the majority of patients.</li>
+<li>CTAS 1 and 2 (most urgent) cases are relatively rare.</li>
+<li>CTAS 5 (least urgent) maintains a steady low volume</li>
+</ul>
+<p><strong>Peak Times:</strong></p>
+<ul>
+<li>The peak volumes around 17:00-20:00.</li>
+<li>CTAS 4 volumes increase significantly in evening hours</li>
+<li>CTAS 3 peaks during afternoon/early evening</li>
+<li>Critical cases (CTAS 1-2) occur sporadically throughout the day</li>
+</ul>
+<p>:::</p>
 <div class="g-col-lg-6 g-col-12">
 <p><img src="images/24clock.png" class="hello-output img-fluid" alt="Example Plots Demo output with title, author, date published and main section on Parametric plots which contains text, a toggleable code field, and the output of the plot, with the caption Figure 1 Parametric Plots."></p>
 </div>
-</div>
+<p>:::</p>
 </div>
 <div id="observable" class="tab-pane fade" role="tabpanel" aria-labelledby="observable-tab">
 <p>Quarto includes native support for Observable JS, a set of JavaScript enhancements created by Mike Bostock (the author of D3). Observable JS uses a reactive execution model, and is especially well suited for interactive data exploration and analysis.</p>
@@ -209,8 +221,8 @@ KPI
 <div class="grid">
 
 </div>
-</div>
-</div>
+<p>:::</p>
+<p>:::</p>
 <div class="content-block">
 <div class="features">
 <section id="er-kpis-analytics" class="feature">
@@ -263,6 +275,12 @@ KPI
 </div>
 </div>
 
+
+</div>
+</div>
+</div>
+</div>
+</div>
 
 
 
@@ -702,7 +720,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   }
 });
 </script>
-</div> <!-- /content -->
+ <!-- /content -->
 
 
 
