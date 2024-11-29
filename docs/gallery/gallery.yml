@@ -25,7 +25,7 @@
   tiles:
     - title: PowerPoint
       subtitle: presentations
-      href: https://quarto-dev.github.io/quarto-gallery/presentations/powerpoint/powerpoint.pptx
+      href: https://johnuelg.github.io/docs/gallery/presentations/Sep_Presentations.pptx
       code: 
       thumbnail: presentations/presentations.png
    

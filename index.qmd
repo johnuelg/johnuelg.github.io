@@ -24,17 +24,17 @@ resources:
 ### Key Metrics Summary - November 2024
 
 - Total Patients Visits: **4,138** (57% decrease from October)
-- Busiest Day: **Saturday** (647 Patients) Peak at 12 AM
+- Busiest Day: **Saturday** (647 Patients) Peak at **12 AM**
 - Peak Visit Hours: **5PM** (248 Patients)
 - Highest Patient Volume: **November 6**, with 236 Patients Visits.
-- Average Door to Doctor: **14 Minutes**
-- Average Doctor to Decision: **30 Minutes**
-- Door To Disposition: **99%** 
-- Non-Urgent: **44%**
+- Average Door to Doctor: <span style="color: green;font-weight: bold;">14 Minutes</span>
+- Average Doctor to Decision: <span style="color: green;font-weight: bold;">30 Minutes</span>
+- Door To Disposition: <span style="color: blue;font-weight: bold;">99%</span> 
+- Non-Urgent:<span style="color: green; font-weight: bold;">44%</span>
 - LAMA & DAMA: **1.43%**
 - Mortality Rate: **0.02%** (1 Deceased Patients)
 
-### Analyze. Share. Reproduce. You have a story to tell with data---tell it with Quarto.
+### The ER Department has a story to tell with its data—tell it effectively with Interactive Reports.
 
 ::: {.hero-buttons}
 [Dashboard](){.btn-action-primary .btn-action .btn .btn-success .btn-lg role="button"}
@@ -62,10 +62,10 @@ resources:
 # Hello!  
 <ul class="nav nav-pills" id="hello-quarto-tab" role="tablist">
   <li class="nav-item" role="presentation">
-    <button class="nav-link active" id="python-tab" data-bs-toggle="tab" data-bs-target="#python" type="button" role="tab" aria-controls="python" aria-selected="true">Patients Calendar</button>
+    <button class="nav-link active" id="python-tab" data-bs-toggle="tab" data-bs-target="#python" type="button" role="tab" aria-controls="python" aria-selected="false">Patients Calendar</button>
   </li>
   <li class="nav-item" role="presentation">
-    <button class="nav-link" id="knitr-tab" data-bs-toggle="tab" data-bs-target="#knitr" type="button" role="tab" aria-controls="knitr" aria-selected="false">ER Traffic</button>
+    <button class="nav-link" id="knitr-tab" data-bs-toggle="tab" data-bs-target="#knitr" type="button" role="tab" aria-controls="knitr" aria-selected="true">ER Traffic</button>
   </li>
   <li class="nav-item" role="presentation">
     <button class="nav-link" id="julia-tab" data-bs-toggle="tab" data-bs-target="#julia" type="button" role="tab" aria-controls="julia" aria-selected="false">Clock Time</button>
